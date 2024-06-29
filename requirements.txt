@@ -1,0 +1,6 @@
+easyocr
+numpy
+pillow
+groq
+ipython
+google-generativeai
