@@ -38,7 +38,7 @@ HackHCMC AngelHack 290624 Topic 2
     - The application will process the images and display the extracted information.
   
 ## Demo
-[![Video demo](https://img.youtube.com/vi/7OtDEsUXk5Y/0.jpg)](https://www.youtube.com/watch?v=7OtDEsUXk5Y)
+[![Video demo](https://img.youtube.com/vi/QOyHmc9uJ8w/0.jpg)](https://www.youtube.com/watch?v=QOyHmc9uJ8w)
 
 
 
