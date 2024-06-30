@@ -1,8 +1,6 @@
 # Heineken-Image-Analyzer
 Angel Hack HackHCMC 290624 Topic 2
 
-# Heineken Image Analyzer
-
 ## Project Overview
 - The Heineken Image Analyzer project processes images related to Heineken, using Optical Character Recognition (OCR) and Large Language Model (LLM) applications to extract and analyze textual and visual information from the images. The project leverages advanced prompt engineering techniques to enhance the accuracy and relevance of the extracted data.
 - This project aims to help Heineken automate the process of surveying locations through images.
@@ -38,6 +36,10 @@ Angel Hack HackHCMC 290624 Topic 2
 4. **Analyze Images**:
     - Click the "Analyze Image(s)" button.
     - The application will process the images and display the extracted information.
+  
+## Demo
+Watch the demo video to see the Heineken Image Analyzer in action:
+![Video Youtube demo][https://www.youtube.com/watch?v=7OtDEsUXk5Y]
 
 ## Code Structure
 - `app.py`: Main application file to run the Flask server.
@@ -61,6 +63,9 @@ google-generativeai
 ## Acknowledgements
 - Team AIO_116 for developing and maintaining the project.
 - The creators of EasyOCR, LLMs, and other open-source used in this project.
+
+## Team member
+[@NgocHuyenPhamm][https://github.com/NgocHuyenPhamm]
 
 ## Contact
 For any questions or suggestions, please open an issue or contact us at vhphatdz@gmail.com.
